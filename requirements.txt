@@ -8,7 +8,6 @@ entrypoints==0.3
 Flask==1.1.2
 itsdangerous==1.1.0
 mccabe==0.6.1
-numpy==1.20.2
 parso==0.7.0
 pywin32==227
 pyzmq==20.0.0
